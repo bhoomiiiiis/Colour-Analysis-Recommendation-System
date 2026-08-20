@@ -1,7 +1,7 @@
 # 🎨 Color Analysis App
 
 ## 📌 Overview
-
+ 
 The Color Analysis App is a web-based application that analyzes a user's undertone, contrast, and depth to generate a personalized color palette and determine their color season.
 
 This project simulates a real-world recommendation system and includes data visualization and analytics features.
